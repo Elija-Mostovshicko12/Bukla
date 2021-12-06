@@ -1,0 +1,38 @@
+{
+    "User": {
+        "313827963": {
+            "Facult": "Grifendor"
+        }
+    },
+    "Facult": {
+        "ball": {
+            "Koktevram": 0,
+            "Slizerin": 0,
+            "Grifendor": 0,
+            "Pufindor": 0
+        },
+        "Starasta": {
+            "Koktevram": "https://vk.com/id689917033",
+            "Slizerin": "https://vk.com/id687426373",
+            "Grifendor": "https://vk.com/id687511833",
+            "Pufindor": "https://vk.com/cedricdiggoryy"
+        },
+        "home_site": {
+            "Koktevram": "https://vk.com/hphomeraven",
+            "Slizerin": "https://vk.com/hphomeslyth",
+            "Grifendor": "https://vk.com/hphomegryff",
+            "Pufindor": "https://vk.com/hphomehuff"
+        }
+    },
+    "ADMIN": {
+        "User": [
+            687209253,
+            606432183,
+            689917033,
+            313827963,
+            687426373,
+            689917033,
+            687511833
+        ]
+    }
+}
